@@ -12,3 +12,8 @@
 |:---------------------------------------:|
 | [markdown.rozh2sch.org.ua](https://markdown.rozh2sch.org.ua/) |
 | Подані основні відомості про базовий і розширений синтаксиси мови Markdown. |
+
+| Icon-Icons |
+|:---------------------------------------:|
+| [icon-icons.com](https://icon-icons.com/) |
+| Купа SVG та PNG іконок. |
